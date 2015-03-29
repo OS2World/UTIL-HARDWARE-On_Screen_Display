@@ -1,0 +1,35 @@
+
+             PMTPOSD2, On-Screen-Display utility for ThinkPads
+
+   Original code Copyright (c) 2003 Serge Sterck, PMTPOSD.ZIP package
+   Enhancements and fixes: (c) 2005 Fsys Software and Jan van Wijk
+
+ ========================================================================
+
+   This package contains Original Code and/or Modifications of Original
+   Code as made available by Serge Sterck in his PMTPOSD.ZIP package.
+
+   It also derives from original work and information by JMA (www.jma.se)
+   and Marko Udvanc as well as suggestions made by some other people :-)
+
+   The PMTPOSD2 package is considered OPEN SOURCE, you may use it as you
+   see fit, and make modifications, as long as the original copyright
+   statements are left intact and operational.
+
+   The Original Code and all software distributed in the pakcage are
+   distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND,
+   EITHER EXPRESS OR IMPLIED, AND FSYS-SOFTWARE AND ALL CONTRIBUTORS
+   HEREBY DISCLAIM ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION,
+   ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   QUIET ENJOYMENT OR NON-INFRINGEMENT.
+
+ ========================================================================
+
+
+   Jan van Wijk
+   Fsys Software
+
+   jvw@dfsee.com
+
+   http://www.dfsee.com
+

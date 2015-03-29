@@ -1,0 +1,17 @@
+#include <os2.h>
+#include "pmtposd2.h"
+
+ICON   ID_ICON       pmtposd2.ico
+
+BITMAP ID_COPYRIGHT  pmtposd2.bmp
+BITMAP ID_VOL_LEDON  pmtplvon.bmp
+BITMAP ID_BAR_LEDOFF pmtploff.bmp
+BITMAP ID_SPEAKER    pmtpson.bmp
+BITMAP ID_SPK_OFF    pmtpsoff.bmp
+BITMAP ID_SCRDUAL    pmtpdual.bmp
+BITMAP ID_SCRLCD     pmtplcd.bmp
+BITMAP ID_SCRVGA     pmtpvga.bmp
+BITMAP ID_SCR_LEDON  pmtplson.bmp
+
+rcinclude pmtposd2.dlg
+
